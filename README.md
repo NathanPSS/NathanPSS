@@ -10,8 +10,10 @@
 
 * Programming languages 
  - C and C++
+
 * Markup language
  - HTML and CSS
+
 * Level of English
   - Medium
   
