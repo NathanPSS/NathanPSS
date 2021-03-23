@@ -8,15 +8,17 @@
 
 # Proefficiency 📑 🖥
 
-* Programming languages 
+- Programming languages 
  - C and C++
 
-* Markup language
+
+- Markup language
  - HTML and CSS
+
 
 * Level of English
   - Medium
-  
+ 
 ## Study 📚 ✍🏻
   * Python,Javascript and Machine Learning.
 
