@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi everyone,🖐🏻
 
-<!--
-**NathanPSS/NathanPSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Nathan Pereira Sarmento 👦🏻
+### born in 07/03/2002 born in in the city Cajazeiras of in the state Paraiba of in the country Brazil.
+* I am a student of ADS 2 period in **IFPB** campus Cajazeiras Paraiba Brazil
+### Contact
+* Email=  nathanpss15@gmail.com 
 
-Here are some ideas to get you started:
+# Proefficiency 📑 🖥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Programming languages 
+ * C and C++
+* Markup language
+ * HTML and CSS
+* Level of English
+  * Medium
+  
+## Study 📚 ✍🏻
+  * Python,Javascript and Machine Learning.
+
+# Interest Areas 💡
+
+* I have interest in Machine Leraning, AI, Deep Learning and related issues.
+* Financial market and daily operations
+* Psychology
