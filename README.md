@@ -9,11 +9,11 @@
 # Proefficiency 📑 🖥
 
 * Programming languages 
- * C and C++
+ - C and C++
 * Markup language
- * HTML and CSS
+ - HTML and CSS
 * Level of English
-  * Medium
+  - Medium
   
 ## Study 📚 ✍🏻
   * Python,Javascript and Machine Learning.
