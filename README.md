@@ -18,6 +18,8 @@
 
 * Level of English
   - Medium
+
+* I worked on a research project at PIBIC at UFCG campus Cajazeiras
  
 ## Study 📚 ✍🏻
   * Python,Javascript and Machine Learning.
