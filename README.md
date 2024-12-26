@@ -3,7 +3,6 @@
 ## 👨‍💻 About Me
 I'm a backend developer specializing in APIs and web development, with experience in tools like Docker and Kubernetes. Passionate about simplicity and clean code, I aim to build scalable and efficient solutions.
 
----
 
 ## 🛠️ My Tech Stack | 📊 Most Used Languages
 <div style="display: flex;">
@@ -31,7 +30,7 @@ I'm a backend developer specializing in APIs and web development, with experienc
   </div>
 </div>
 
----
+
 
 ## 📬 Let's Connect
 <div align="center">
@@ -41,6 +40,4 @@ I'm a backend developer specializing in APIs and web development, with experienc
 
 </div>
 
----
 
-Feel free to explore my repositories and connect with me for collaboration or just to say hi! 😊
