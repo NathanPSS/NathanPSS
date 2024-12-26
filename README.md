@@ -27,7 +27,7 @@ Desenvolvedor BackEnd Jr,com foco na construção de APIs seguras,escaláveis e 
   </div>
   <div style="flex: 1; margin-left: 10px;">
 
-### 📃 Most Used Languages
+### 📃 Linguagens
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPSS&layout=compact&theme=radical)
 
   </div>
@@ -35,7 +35,7 @@ Desenvolvedor BackEnd Jr,com foco na construção de APIs seguras,escaláveis e 
 
 
 
-## 📬 Let's Connect
+## 📬 Contato
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nathan-ps) 
