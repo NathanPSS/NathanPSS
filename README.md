@@ -25,7 +25,7 @@ I'm a backend developer specializing in APIs and web development, with experienc
   <div style="flex: 1; margin-left: 10px;">
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPSS&layout=compact&theme=radical)
 
   </div>
 </div>
