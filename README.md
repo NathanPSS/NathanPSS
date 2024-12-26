@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nathan 👋
 
 ## 👨‍💻 About Me
 I'm a backend developer specializing in APIs and web development, with experience in tools like Docker and Kubernetes. Passionate about simplicity and clean code, I aim to build scalable and efficient solutions.
