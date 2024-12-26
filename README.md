@@ -5,7 +5,6 @@ I'm a backend developer specializing in APIs and web development, with experienc
 
 ---
 
-## 🛠️ My Tech Stack | 📊 Most Used Languages
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 10px;">
 
