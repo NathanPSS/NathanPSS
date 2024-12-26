@@ -1,6 +1,6 @@
 # Olá,Sou Nathan 👋
 
-## 👨‍💻 Sobre Me
+## 👨‍💻 Sobre Mim
 Desenvolvedor BackEnd Jr,com foco na construção de APIs seguras,escaláveis e alinhadas com regras de negócio.
 
 
