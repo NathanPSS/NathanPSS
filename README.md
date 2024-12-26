@@ -25,7 +25,7 @@ Desenvolvedor BackEnd Jr,com foco na construção de APIs seguras,escaláveis e 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
   </div>
-  <div style="flex: 1; margin-left: 10px;">
+  <div style="flex: 1; margin-right: 10px;">
 
 ### 📃 Linguagens
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPSS&layout=compact&theme=radical)
