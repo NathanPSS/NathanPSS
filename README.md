@@ -3,6 +3,7 @@
 ## 👨‍💻 About Me
 I'm a backend developer specializing in APIs and web development, with experience in tools like Docker and Kubernetes. Passionate about simplicity and clean code, I aim to build scalable and efficient solutions.
 
+---
 
 ## 🛠️ My Tech Stack | 📊 Most Used Languages
 <div style="display: flex;">
